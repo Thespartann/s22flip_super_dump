@@ -1,0 +1,7 @@
+#add begin by liyang for clientid
+ro.com.google.clientidbase=android-bullitt
+ro.com.google.clientidbase.ms=android-tmus-us-revc
+#add end by liyang
+#add begin 20200924 by richard for additioinal clientid request
+ro.com.google.clientidbase.vs=android-tmus-us-revc
+#add end 20200924

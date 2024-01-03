@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+
+<exception>
+  <exception package="com.sprint.sdcplus">
+    <permission name="android.permission.CONNECTIVITY_INTERNAL" fixed="false"/>
+    <permission name="android.permission.ACCESS_NETWORK_CONDITIONS" fixed="false"/>
+    <permission name="android.permission.READ_NETWORK_USAGE_HISTORY" fixed="false"/>
+    <permission name="android.permission.MODIFY_PHONE_STATE" fixed="false"/>
+    <permission name="android.permission.BLUETOOTH_PRIVILEGED" fixed="false"/>
+    <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE" fixed="false"/>
+    <permission name="android.permission.READ_LOGS" fixed="false"/>
+    <permission name="android.permission.PACKAGE_USAGE_STATS" fixed="false"/>
+    <permission name="android.permission.CLEAR_APP_CACHE" fixed="false"/>
+    <permission name="android.permission.MANAGE_USB" fixed="false"/>
+    <permission name="android.permission.INSTALL_PACKAGES" fixed="false"/>
+    <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND" fixed="false"/>
+    <permission name="android.permission.BIND_APPWIDGET" fixed="false"/>
+    <permission name="android.permission.SYSTEM_ALERT_WINDOW" fixed="false"/>
+    <permission name="android.permission.ANSWER_PHONE_CALLS" fixed="false"/>
+    <permission name="android.permission.CALL_PHONE" fixed="false"/>
+    <permission name="android.permission.READ_EXTERNAL_STORAGE" fixed="false"/>
+    <permission name="android.permission.READ_PHONE_STATE" fixed="false"/>
+    <permission name="android.permission.WRITE_CONTACTS" fixed="false"/>
+    <permission name="android.permission.GET_ACCOUNTS" fixed="false"/>
+    <permission name="android.permission.WRITE_EXTERNAL_STORAGE" fixed="false"/>
+    <permission name="android.permission.RECORD_AUDIO" fixed="false"/>
+    <permission name="android.permission.READ_CONTACTS" fixed="false"/>
+    <permission name="android.permission.CAMERA" fixed="false"/>
+    <permission name="android.permission.ACCESS_BACKGROUND_LOCATION" fixed="false"/>
+    <permission name="android.permission.CONNECTIVITY_USE_RESTRICTED_NETWORKS" fixed="false"/>
+  </exception>
+</exception>
+

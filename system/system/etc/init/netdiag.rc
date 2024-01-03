@@ -1,0 +1,7 @@
+on boot
+    mkdir /data/netlog 0777 system system
+    chmod 0777 /data/netlog
+
+
+service netdiag /system/bin/netdiag
+    class main

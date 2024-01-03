@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<config>
+    <allow-in-power-save package="com.sprint.sdcplus" />
+    <allow-in-power-save-except-idle package="com.sprint.sdcplus" />
+    <hidden-api-whitelisted-app package="com.sprint.sdcplus" />
+    <system-user-whitelisted-app package="com.sprint.sdcplus" />
+</config>

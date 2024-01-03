@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <privapp-permissions package="com.gsma.rcs">
+        <permission name="android.permission.ACCESS_UCE_OPTIONS_SERVICE"/>
+        <permission name="android.permission.ACCESS_UCE_PRESENCE_SERVICE"/>
+        <permission name="android.permission.MONITOR_DEFAULT_SMS_PACKAGE"/>
+    </privapp-permissions>
+
+</permissions>
+

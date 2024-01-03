@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<config>
+    <allow-in-power-save package="com.android.vowifi"/>
+    <allow-in-power-save package="com.sprint.ce.updater"/>
+    <allow-in-power-save package="com.sprint.ms.cdm"/>
+    <allow-in-power-save package="com.sprint.ms.smf.services"/>
+    <allow-in-power-save package="com.sprint.w.installer"/>
+    <allow-in-power-save package="com.tmobile.echolocate" />
+    <allow-in-power-save package="com.tmobile.pr.mytmobile" />
+
+    <allow-in-power-save-except-idle package="com.tmobile.echolocate" />
+
+    <allow-unthrottled-location package="com.tmobile.echolocate"/>
+    <allow-unthrottled-location package="com.tmobile.pr.mytmobile" />
+
+    <hidden-api-whitelisted-app package="com.tmobile.echolocate" />
+
+    <system-user-whitelisted-app package="com.tmobile.echolocate" />
+</config>
